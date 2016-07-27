@@ -73,7 +73,6 @@
     "no-return-assign": 2,
     "no-self-compare": 2,
     "no-sequences": 2,
-    "no-shadow-restricted-names": 2,
     "no-spaced-func": 2,
     "no-sparse-arrays": 2,
     "no-this-before-super": 2,
